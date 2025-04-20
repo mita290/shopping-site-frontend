@@ -66,6 +66,13 @@ This is a simple and interactive shopping site frontend built with **React** and
 
 ## Screenshots
 
+* ## Dashboard
+![Dashboard](screenshots/initial.jpeg) 
+* ## Add Items
+![Adding Items](screenshots/add_items.jpeg)
+* ## Remove Items
+![Removing Items](screenshots/remove_items.jpeg)
+
 ## 🚀 Future Enhancements
 
 - 🗂️ **Backend Integration** – Connect to a database to persist cart items and product inventory.
