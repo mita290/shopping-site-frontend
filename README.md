@@ -67,11 +67,11 @@ This is a simple and interactive shopping site frontend built with **React** and
 ## Screenshots
 
 * ## Dashboard
-![Dashboard](screenshots/initial.jpeg) 
+![Dashboard](screenshots/initial.png) 
 * ## Add Items
-![Adding Items](screenshots/add_items.jpeg)
+![Adding Items](screenshots/add_items.png)
 * ## Remove Items
-![Removing Items](screenshots/remove_items.jpeg)
+![Removing Items](screenshots/remove_items.png)
 
 ## 🚀 Future Enhancements
 
